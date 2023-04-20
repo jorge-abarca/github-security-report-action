@@ -20,7 +20,7 @@
     "@actions/io": "^1.0.2",
     "@octokit/rest": "^18.0.15",
     "commander": "^7.0.0",
-    "nunjucks": "^3.2.2",
+    "nunjucks": "^3.2.4",
     "puppeteer-core": "^5.5.0"
   },
   "devDependencies": {
